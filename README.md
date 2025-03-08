@@ -1,6 +1,6 @@
 ## Hey there👋! I'm Sree Venkatesh R
 
-### Passionate WEB Developer
+### Passionate Web Developer
 <img align="right" width="370" height="290" src="https://i.postimg.cc/vZTbfsSc/coding.gif">
 
 📫 How to reach me :
