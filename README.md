@@ -1,4 +1,4 @@
-## Hey there👋! I'm Sree Venkatesh R
+##  Sree Venkatesh R
 
 ### Passionate Web Developer
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
